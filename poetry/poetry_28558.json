@@ -1,0 +1,15 @@
+{
+  "id": 28558,
+  "star": 1,
+  "name": "宿咸宜观",
+  "dynasty": "唐代",
+  "content": "羽袖飘飘杳夜风，翠幢归殿玉坛空。 <br> 步虚声尽天未晓，露压桃花月满宫。",
+  "poet": {
+    "id": 267,
+    "star": 0,
+    "name": "许浑",
+    "image": "http://img.gushiwen.org/authorImg/xuhun.jpg",
+    "desc": "许浑，晚唐最具影响力的诗人之一，七五律尤佳，后人拟之与诗圣杜甫齐名，更有“许浑千首诗，杜甫一生愁”之语。"
+  },
+  "tags": []
+}

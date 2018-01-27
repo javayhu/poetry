@@ -1,0 +1,15 @@
+{
+  "id": 32611,
+  "star": 1,
+  "name": "田家效陶",
+  "dynasty": "唐代",
+  "content": "黑黍舂来酿酒饮，青禾刈了驱牛载。 <br> 大姑小叔常在眼，却笑长安在天外。",
+  "poet": {
+    "id": 98,
+    "star": 0,
+    "name": "曹邺",
+    "image": "http://img.gushiwen.org/authorImg/caoye.jpg",
+    "desc": "曹邺，字邺之，桂州（桂林）阳朔人，与晚唐著名诗人刘驾、聂夷中、于濆、邵谒、苏拯齐名，而以曹邺才颖最佳。"
+  },
+  "tags": []
+}

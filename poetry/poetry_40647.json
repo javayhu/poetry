@@ -1,0 +1,15 @@
+{
+  "id": 40647,
+  "star": 1,
+  "name": "隋堤柳",
+  "dynasty": "唐代",
+  "content": "锦缆龙舟万里来，醉乡繁盛忽尘埃。 <br> 空馀两岸千株柳，雨叶风花作恨媒。",
+  "poet": {
+    "id": 1462,
+    "star": 0,
+    "name": "江为",
+    "image": "http://img.gushiwen.org/authorImg/jiangwei.jpg",
+    "desc": "生卒年均不详，约公元950年前后（汉隐帝乾祐末）在世，字以善，五代时建州人，其先宋州考城人，文蔚之子，避乱家建阳。"
+  },
+  "tags": []
+}

@@ -1,0 +1,15 @@
+{
+  "id": 28523,
+  "star": 15,
+  "name": "蝉",
+  "dynasty": "唐代",
+  "content": "噪柳鸣槐晚未休，不知何事爱悲秋。 <br> 朱门大有长吟处，刚傍愁人又送愁。",
+  "poet": {
+    "id": 267,
+    "star": 0,
+    "name": "许浑",
+    "image": "http://img.gushiwen.org/authorImg/xuhun.jpg",
+    "desc": "许浑，晚唐最具影响力的诗人之一，七五律尤佳，后人拟之与诗圣杜甫齐名，更有“许浑千首诗，杜甫一生愁”之语。"
+  },
+  "tags": []
+}

@@ -1,0 +1,15 @@
+{
+  "id": 28554,
+  "star": 4,
+  "name": "鹭鸶",
+  "dynasty": "唐代",
+  "content": "西风澹澹水悠悠，雪点丝飘带雨愁。 <br> 何限归心倚前閤，绿蒲红蓼练塘秋。",
+  "poet": {
+    "id": 267,
+    "star": 0,
+    "name": "许浑",
+    "image": "http://img.gushiwen.org/authorImg/xuhun.jpg",
+    "desc": "许浑，晚唐最具影响力的诗人之一，七五律尤佳，后人拟之与诗圣杜甫齐名，更有“许浑千首诗，杜甫一生愁”之语。"
+  },
+  "tags": []
+}

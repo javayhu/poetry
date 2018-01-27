@@ -1,0 +1,15 @@
+{
+  "id": 4481,
+  "star": 1,
+  "name": "广州江中作",
+  "dynasty": "唐代",
+  "content": "去国年方晏，愁心转不堪。离人与江水，终日向西南。",
+  "poet": {
+    "id": 149,
+    "star": 0,
+    "name": "张说",
+    "image": "http://img.gushiwen.org/authorImg/zhangshuo.jpg",
+    "desc": "张说(667年～730年) 唐代文学家，诗人，政治家。字道济，一字说之。原籍范阳（今河北涿县），世居河东（今山西永济），徙家洛阳。"
+  },
+  "tags": []
+}

@@ -1,0 +1,15 @@
+{
+  "id": 4478,
+  "star": 1,
+  "name": "被使在蜀",
+  "dynasty": "唐代",
+  "content": "即今三伏尽，尚自在临邛。归途千里外，秋月定相逢。",
+  "poet": {
+    "id": 149,
+    "star": 0,
+    "name": "张说",
+    "image": "http://img.gushiwen.org/authorImg/zhangshuo.jpg",
+    "desc": "张说(667年～730年) 唐代文学家，诗人，政治家。字道济，一字说之。原籍范阳（今河北涿县），世居河东（今山西永济），徙家洛阳。"
+  },
+  "tags": []
+}

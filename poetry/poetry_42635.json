@@ -1,0 +1,15 @@
+{
+  "id": 42635,
+  "star": 1,
+  "name": "喻夫阻客",
+  "dynasty": "唐代",
+  "content": "楚竹燕歌动画梁，春兰重换舞衣裳。 <br> 公孙开阁招嘉客，知道浮荣不久长。",
+  "poet": {
+    "id": 2981,
+    "star": 0,
+    "name": "王韫秀",
+    "image": "http://img.gushiwen.org/authorImg/wangyunxiu.jpg",
+    "desc": "王韫秀(730-777)：唐代名媛、诗人，祖籍祁县，后移居华州郑县(今陕西华县)。王忠嗣之女，宰相元载之妻。"
+  },
+  "tags": []
+}

@@ -1,0 +1,15 @@
+{
+  "id": 42837,
+  "star": 3,
+  "name": "献陈陶处士",
+  "dynasty": "唐代",
+  "content": "莲花为号玉为腮，珍重尚书遣妾来。 <br> 处士不生巫峡梦，虚劳神女下阳台。",
+  "poet": {
+    "id": 1116,
+    "star": 0,
+    "name": "莲花妓",
+    "image": "http://img.gushiwen.org/authorImg/lianhuaji.jpg",
+    "desc": "莲花妓，豫章人也，陈陶隐南昌西山，镇帅严宇尝遣之侍陶。陶不顾，因求去，献诗一首。"
+  },
+  "tags": []
+}

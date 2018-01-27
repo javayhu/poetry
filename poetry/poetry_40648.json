@@ -1,0 +1,15 @@
+{
+  "id": 40648,
+  "star": 1,
+  "name": "句",
+  "dynasty": "唐代",
+  "content": "吟登萧寺旃檀阁，醉倚王家玳瑁筵。 <br> 远远朝宗出白云，方圆随处性长存。",
+  "poet": {
+    "id": 1462,
+    "star": 0,
+    "name": "江为",
+    "image": "http://img.gushiwen.org/authorImg/jiangwei.jpg",
+    "desc": "生卒年均不详，约公元950年前后（汉隐帝乾祐末）在世，字以善，五代时建州人，其先宋州考城人，文蔚之子，避乱家建阳。"
+  },
+  "tags": []
+}

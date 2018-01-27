@@ -1,0 +1,15 @@
+{
+  "id": 4493,
+  "star": 2,
+  "name": "三月闺怨",
+  "dynasty": "唐代",
+  "content": "三月时将尽，空房妾独居。蛾眉愁自结，鬓发没情梳。",
+  "poet": {
+    "id": 149,
+    "star": 0,
+    "name": "张说",
+    "image": "http://img.gushiwen.org/authorImg/zhangshuo.jpg",
+    "desc": "张说(667年～730年) 唐代文学家，诗人，政治家。字道济，一字说之。原籍范阳（今河北涿县），世居河东（今山西永济），徙家洛阳。"
+  },
+  "tags": []
+}

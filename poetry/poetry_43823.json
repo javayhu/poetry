@@ -1,0 +1,15 @@
+{
+  "id": 43823,
+  "star": 1,
+  "name": "赠卢逸人",
+  "dynasty": "唐代",
+  "content": "高眠岩野间，至艺敌应难。诗苦无多首，药灵惟一丸。 <br> 引泉鱼落釜，攀果露沾冠。已得嵇康趣，逢迎事每阑。",
+  "poet": {
+    "id": 1212,
+    "star": 0,
+    "name": "善生",
+    "image": "http://img.gushiwen.org/authorImg/shansheng.jpg",
+    "desc": "善生，唐朝诗人，贞元时僧。诗四首，都为五律体裁。"
+  },
+  "tags": []
+}

@@ -1,0 +1,15 @@
+{
+  "id": 30373,
+  "star": 1,
+  "name": "易水怀古",
+  "dynasty": "唐代",
+  "content": "荆卿西去不复返，易水东流无尽期。 <br> 落日萧条蓟城北，黄沙白草任风吹。",
+  "poet": {
+    "id": 465,
+    "star": 0,
+    "name": "马戴",
+    "image": "http://img.gushiwen.org/authorImg/madai.jpg",
+    "desc": "马戴（799—869），字虞臣，唐定州曲阳（今江苏省东海县）人。晚唐时期著名诗人。"
+  },
+  "tags": []
+}

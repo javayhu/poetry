@@ -1,0 +1,15 @@
+{
+  "id": 4482,
+  "star": 1,
+  "name": "江中诵经",
+  "dynasty": "唐代",
+  "content": "实相归悬解，虚心暗在通。澄江明月内，应是色成空。",
+  "poet": {
+    "id": 149,
+    "star": 0,
+    "name": "张说",
+    "image": "http://img.gushiwen.org/authorImg/zhangshuo.jpg",
+    "desc": "张说(667年～730年) 唐代文学家，诗人，政治家。字道济，一字说之。原籍范阳（今河北涿县），世居河东（今山西永济），徙家洛阳。"
+  },
+  "tags": []
+}

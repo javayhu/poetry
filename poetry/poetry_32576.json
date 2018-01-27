@@ -1,0 +1,15 @@
+{
+  "id": 32576,
+  "star": 1,
+  "name": "金井怨",
+  "dynasty": "唐代",
+  "content": "西风吹急景，美人照金井。不见面上花，却恨井中影。",
+  "poet": {
+    "id": 98,
+    "star": 0,
+    "name": "曹邺",
+    "image": "http://img.gushiwen.org/authorImg/caoye.jpg",
+    "desc": "曹邺，字邺之，桂州（桂林）阳朔人，与晚唐著名诗人刘驾、聂夷中、于濆、邵谒、苏拯齐名，而以曹邺才颖最佳。"
+  },
+  "tags": []
+}

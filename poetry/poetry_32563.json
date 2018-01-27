@@ -1,0 +1,15 @@
+{
+  "id": 32563,
+  "star": 1,
+  "name": "听刘尊师弹琴",
+  "dynasty": "唐代",
+  "content": "曾于清海独闻蝉，又向空庭夜听泉。 <br> 不似斋堂人静处，秋声长在七条弦。",
+  "poet": {
+    "id": 98,
+    "star": 0,
+    "name": "曹邺",
+    "image": "http://img.gushiwen.org/authorImg/caoye.jpg",
+    "desc": "曹邺，字邺之，桂州（桂林）阳朔人，与晚唐著名诗人刘驾、聂夷中、于濆、邵谒、苏拯齐名，而以曹邺才颖最佳。"
+  },
+  "tags": []
+}

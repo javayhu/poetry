@@ -1,0 +1,15 @@
+{
+  "id": 55200,
+  "star": 5,
+  "name": "鹧鸪天",
+  "dynasty": "宋代",
+  "content": "独倚阑干昼日长。纷纷蜂蝶斗轻狂。一天飞絮东风恶，满路桃花春水香。 <br>当此际，意偏长。萋萋芳草傍池塘。千钟尚欲偕春醉，幸有<span style=\"color:#333333;WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FLOAT: none; FONT: 13px/20px arial; DISPLAY: inline !important; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px\">荼蘼</span>与海棠。",
+  "poet": {
+    "id": 220,
+    "star": 0,
+    "name": "朱淑真",
+    "image": "http://img.gushiwen.org/authorImg/zhushuzhen.jpg",
+    "desc": "朱淑真（约1135~约1180），号幽栖居士，宋代女诗人，亦为唐宋以来留存作品最丰盛的女作家之一。南宋初年时在世，祖籍歙州（治今安徽歙县），《四库全书》中定其为“浙中海宁人”，一说浙江钱塘（今浙江杭州）人。生于仕宦之家。夫为文法小吏，因志趣不合，夫妻不睦，终致其抑郁早逝。又传淑真过世后，父母将其生前文稿付之一炬。其余生平不可考，素无定论。现存《断肠诗集》、《断肠词》传世，为劫后余篇。"
+  },
+  "tags": []
+}

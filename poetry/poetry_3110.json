@@ -1,0 +1,15 @@
+{
+  "id": 3110,
+  "star": 1,
+  "name": "在荆州重赴岭南",
+  "dynasty": "唐代",
+  "content": "梦泽三秋日，苍梧一片云。还将鹓鹭羽，重入鹧鸪群。",
+  "poet": {
+    "id": 248,
+    "star": 0,
+    "name": "宋之问",
+    "image": "http://img.gushiwen.org/authorImg/songzhiwen.jpg",
+    "desc": "宋之问，字延清，一名少连，汉族，汾州（今山西汾阳市）人。一说虢州弘农（今河南灵宝县）人。初唐时期的著名诗人。"
+  },
+  "tags": []
+}

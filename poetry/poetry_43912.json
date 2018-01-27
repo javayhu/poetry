@@ -1,0 +1,15 @@
+{
+  "id": 43912,
+  "star": 1,
+  "name": "琴",
+  "dynasty": "唐代",
+  "content": "七条丝上寄深意，涧水松风生十指。 <br> 自乃知音犹尚稀，欲教更入何人耳。",
+  "poet": {
+    "id": 1167,
+    "star": 0,
+    "name": "隐峦",
+    "image": "http://img.gushiwen.org/authorImg/yinluan.jpg",
+    "desc": "隐峦，唐末匡庐僧，他的作品《蜀中送人游庐山》《牧童》《浮桥》《逢老人》《琴》。"
+  },
+  "tags": []
+}

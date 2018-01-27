@@ -1,0 +1,15 @@
+{
+  "id": 28547,
+  "star": 2,
+  "name": "旌儒庙",
+  "dynasty": "唐代",
+  "content": "寒陌阴风万古悲，儒冠相枕死秦时。 <br> 庙前亦有商山路，不学老翁歌紫芝。",
+  "poet": {
+    "id": 267,
+    "star": 0,
+    "name": "许浑",
+    "image": "http://img.gushiwen.org/authorImg/xuhun.jpg",
+    "desc": "许浑，晚唐最具影响力的诗人之一，七五律尤佳，后人拟之与诗圣杜甫齐名，更有“许浑千首诗，杜甫一生愁”之语。"
+  },
+  "tags": []
+}

@@ -1,0 +1,15 @@
+{
+  "id": 4477,
+  "star": 1,
+  "name": "书香能和尚塔",
+  "dynasty": "唐代",
+  "content": "大师捐世去，空馀法力在。远寄无碍香，心随到南海。",
+  "poet": {
+    "id": 149,
+    "star": 0,
+    "name": "张说",
+    "image": "http://img.gushiwen.org/authorImg/zhangshuo.jpg",
+    "desc": "张说(667年～730年) 唐代文学家，诗人，政治家。字道济，一字说之。原籍范阳（今河北涿县），世居河东（今山西永济），徙家洛阳。"
+  },
+  "tags": []
+}

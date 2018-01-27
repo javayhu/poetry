@@ -1,0 +1,15 @@
+{
+  "id": 32615,
+  "star": 1,
+  "name": "题广福岩",
+  "dynasty": "唐代",
+  "content": "未有天地先融结，方广高深无丈尺。 <br> 书言不尽画难成，留与人间作奇特。",
+  "poet": {
+    "id": 98,
+    "star": 0,
+    "name": "曹邺",
+    "image": "http://img.gushiwen.org/authorImg/caoye.jpg",
+    "desc": "曹邺，字邺之，桂州（桂林）阳朔人，与晚唐著名诗人刘驾、聂夷中、于濆、邵谒、苏拯齐名，而以曹邺才颖最佳。"
+  },
+  "tags": []
+}

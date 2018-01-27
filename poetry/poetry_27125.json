@@ -1,0 +1,15 @@
+{
+  "id": 27125,
+  "star": 1,
+  "name": "忆家",
+  "dynasty": "唐代",
+  "content": "天海相连无尽处，梦魂来往尚应难。 <br> 谁言南海无霜雪，试向愁人两鬓看。",
+  "poet": {
+    "id": 1037,
+    "star": 0,
+    "name": "裴夷直",
+    "image": "http://img.gushiwen.org/authorImg/peiyizhi.jpg",
+    "desc": "裴夷直，唐诗人。字礼卿。吴（今苏州）人，郡望河东(今山西永济)。宪宗元和十年(815)登进士第，任右拾遗。"
+  },
+  "tags": []
+}

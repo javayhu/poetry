@@ -1,0 +1,15 @@
+{
+  "id": 32528,
+  "star": 3,
+  "name": "寄刘驾",
+  "dynasty": "唐代",
+  "content": "一川草色青袅袅，绕屋水声如在家。 <br> 怅望美人不携手，墙东又发数枝花。",
+  "poet": {
+    "id": 98,
+    "star": 0,
+    "name": "曹邺",
+    "image": "http://img.gushiwen.org/authorImg/caoye.jpg",
+    "desc": "曹邺，字邺之，桂州（桂林）阳朔人，与晚唐著名诗人刘驾、聂夷中、于濆、邵谒、苏拯齐名，而以曹邺才颖最佳。"
+  },
+  "tags": []
+}

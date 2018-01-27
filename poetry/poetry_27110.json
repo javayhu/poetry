@@ -1,0 +1,15 @@
+{
+  "id": 27110,
+  "star": 1,
+  "name": "访刘君",
+  "dynasty": "唐代",
+  "content": "扰扰驰蹄又走轮，五更飞尽九衢尘。 <br> 灵芝破观深松院，还有斋时未起人。",
+  "poet": {
+    "id": 1037,
+    "star": 0,
+    "name": "裴夷直",
+    "image": "http://img.gushiwen.org/authorImg/peiyizhi.jpg",
+    "desc": "裴夷直，唐诗人。字礼卿。吴（今苏州）人，郡望河东(今山西永济)。宪宗元和十年(815)登进士第，任右拾遗。"
+  },
+  "tags": []
+}

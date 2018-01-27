@@ -1,0 +1,15 @@
+{
+  "id": 45352,
+  "star": 2,
+  "name": "戒小师",
+  "dynasty": "唐代",
+  "content": "不肯吟诗不听经，禅宗异岳懒游行。 <br> 他年白首当人问，将底言谈对后生。",
+  "poet": {
+    "id": 2,
+    "star": 0,
+    "name": "齐己",
+    "image": "http://img.gushiwen.org/authorImg/qiji.jpg",
+    "desc": "齐己（863年—937年）出家前俗名胡德生，晚年自号衡岳沙门，湖南长沙宁乡县祖塔乡人，唐朝晚期著名诗僧。"
+  },
+  "tags": []
+}

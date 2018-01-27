@@ -1,0 +1,15 @@
+{
+  "id": 27100,
+  "star": 1,
+  "name": "秦中卧病思归",
+  "dynasty": "唐代",
+  "content": "索索凉风满树头，破窗残月五更秋。 <br> 病身归处吴江上，一寸心中万里愁。",
+  "poet": {
+    "id": 1037,
+    "star": 0,
+    "name": "裴夷直",
+    "image": "http://img.gushiwen.org/authorImg/peiyizhi.jpg",
+    "desc": "裴夷直，唐诗人。字礼卿。吴（今苏州）人，郡望河东(今山西永济)。宪宗元和十年(815)登进士第，任右拾遗。"
+  },
+  "tags": []
+}

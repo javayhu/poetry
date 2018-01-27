@@ -1,0 +1,15 @@
+{
+  "id": 27116,
+  "star": 2,
+  "name": "临水",
+  "dynasty": "唐代",
+  "content": "一见心原断百忧，益知身世两悠悠。 <br> 江亭独倚阑干处，人亦无言水自流。",
+  "poet": {
+    "id": 1037,
+    "star": 0,
+    "name": "裴夷直",
+    "image": "http://img.gushiwen.org/authorImg/peiyizhi.jpg",
+    "desc": "裴夷直，唐诗人。字礼卿。吴（今苏州）人，郡望河东(今山西永济)。宪宗元和十年(815)登进士第，任右拾遗。"
+  },
+  "tags": []
+}

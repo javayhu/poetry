@@ -1,0 +1,15 @@
+{
+  "id": 30380,
+  "star": 1,
+  "name": "射雕骑",
+  "dynasty": "唐代",
+  "content": "蕃面将军著鼠裘，酣歌冲雪在边州。 <br> 猎过黑山犹走马，寒雕射落不回头。",
+  "poet": {
+    "id": 465,
+    "star": 0,
+    "name": "马戴",
+    "image": "http://img.gushiwen.org/authorImg/madai.jpg",
+    "desc": "马戴（799—869），字虞臣，唐定州曲阳（今江苏省东海县）人。晚唐时期著名诗人。"
+  },
+  "tags": []
+}

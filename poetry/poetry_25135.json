@@ -1,0 +1,15 @@
+{
+  "id": 25135,
+  "star": 1,
+  "name": "句",
+  "dynasty": "唐代",
+  "content": "藻井尚寒龙迹在，红楼初施日光通。",
+  "poet": {
+    "id": 1447,
+    "star": 0,
+    "name": "陈至",
+    "image": "http://img.gushiwen.org/authorImg/chenzhi.jpg",
+    "desc": "陈至，元和四年及第。诗二首。"
+  },
+  "tags": []
+}

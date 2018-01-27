@@ -1,0 +1,15 @@
+{
+  "id": 47380,
+  "star": 1,
+  "name": "生查子",
+  "dynasty": "唐代",
+  "content": "相见稀，喜相见，相见还相远。檀画荔支红，金蔓蜻蜓软¤ <br> 鱼雁疏，芳信断，花落庭阴晚。可惜玉肌肤，消瘦成慵懒。",
+  "poet": {
+    "id": 688,
+    "star": 0,
+    "name": "张泌",
+    "image": "http://img.gushiwen.org/authorImg/zhangmi.jpg",
+    "desc": "张泌，字子澄，唐末重要作家，生卒年约与韩偓(842-914)相当。"
+  },
+  "tags": []
+}

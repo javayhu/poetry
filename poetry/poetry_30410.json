@@ -1,0 +1,15 @@
+{
+  "id": 30410,
+  "star": 2,
+  "name": "江中遇客",
+  "dynasty": "唐代",
+  "content": "危石江中起，孤云岭上还。相逢皆得意，何处是乡关。",
+  "poet": {
+    "id": 465,
+    "star": 0,
+    "name": "马戴",
+    "image": "http://img.gushiwen.org/authorImg/madai.jpg",
+    "desc": "马戴（799—869），字虞臣，唐定州曲阳（今江苏省东海县）人。晚唐时期著名诗人。"
+  },
+  "tags": []
+}

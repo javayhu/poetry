@@ -1,0 +1,15 @@
+{
+  "id": 27123,
+  "star": 1,
+  "name": "戏酬惟赏上人",
+  "dynasty": "唐代",
+  "content": "师是浮云无著身，我居尘网敢相亲。 <br> 应从海上秋风便，偶自飞来不为人。",
+  "poet": {
+    "id": 1037,
+    "star": 0,
+    "name": "裴夷直",
+    "image": "http://img.gushiwen.org/authorImg/peiyizhi.jpg",
+    "desc": "裴夷直，唐诗人。字礼卿。吴（今苏州）人，郡望河东(今山西永济)。宪宗元和十年(815)登进士第，任右拾遗。"
+  },
+  "tags": []
+}

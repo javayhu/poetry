@@ -1,0 +1,15 @@
+{
+  "id": 43909,
+  "star": 6,
+  "name": "逢老人",
+  "dynasty": "唐代",
+  "content": "路逢一老翁，两鬓白如雪。一里二里行，四回五回歇。",
+  "poet": {
+    "id": 1167,
+    "star": 0,
+    "name": "隐峦",
+    "image": "http://img.gushiwen.org/authorImg/yinluan.jpg",
+    "desc": "隐峦，唐末匡庐僧，他的作品《蜀中送人游庐山》《牧童》《浮桥》《逢老人》《琴》。"
+  },
+  "tags": []
+}

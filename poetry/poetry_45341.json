@@ -1,0 +1,15 @@
+{
+  "id": 45341,
+  "star": 2,
+  "name": "对菊",
+  "dynasty": "唐代",
+  "content": "无艳无妖别有香，栽多不为待重阳。 <br> 莫嫌醒眼相看过，却是真心爱澹黄。",
+  "poet": {
+    "id": 2,
+    "star": 0,
+    "name": "齐己",
+    "image": "http://img.gushiwen.org/authorImg/qiji.jpg",
+    "desc": "齐己（863年—937年）出家前俗名胡德生，晚年自号衡岳沙门，湖南长沙宁乡县祖塔乡人，唐朝晚期著名诗僧。"
+  },
+  "tags": []
+}

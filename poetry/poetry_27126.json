@@ -1,0 +1,15 @@
+{
+  "id": 27126,
+  "star": 1,
+  "name": "留客",
+  "dynasty": "唐代",
+  "content": "青梅欲熟笋初长，嫩绿新阴绕砌凉。 <br> 湖馆翛然无俗客，白衣居士且匡床。",
+  "poet": {
+    "id": 1037,
+    "star": 0,
+    "name": "裴夷直",
+    "image": "http://img.gushiwen.org/authorImg/peiyizhi.jpg",
+    "desc": "裴夷直，唐诗人。字礼卿。吴（今苏州）人，郡望河东(今山西永济)。宪宗元和十年(815)登进士第，任右拾遗。"
+  },
+  "tags": []
+}
