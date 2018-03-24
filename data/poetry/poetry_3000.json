@@ -1,0 +1,15 @@
+{
+  "content": "薄暮曲江头，仁祠暂可留。山形无隐霁，野色遍呈秋。 \n荷覆香泉密，藤缘宝树幽。平生厌尘事，过此忽悠悠。",
+  "dynasty": "唐代",
+  "id": 3000,
+  "name": "秋晚游普耀寺",
+  "poet": {
+    "desc": "宋之问，字延清，一名少连，汉族，汾州（今山西汾阳市）人。一说虢州弘农（今河南灵宝县）人。初唐时期的著名诗人。",
+    "id": 248,
+    "image": "https://raw.githubusercontent.com/hujiaweibujidao/poetry/master/image/image_248.jpg",
+    "name": "宋之问",
+    "star": 0
+  },
+  "star": 1,
+  "tags": []
+}
