@@ -1,4 +1,2 @@
-# poetry
 
-All in one file poetry and poet data
-
+从poet和poetry等文件夹的数据中整理出来的all in one文件

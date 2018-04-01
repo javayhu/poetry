@@ -1,3 +1,2 @@
-# poetry
 
-some poetry project data exported from LeanCloud
+从LeanCloud上导出来的数据
