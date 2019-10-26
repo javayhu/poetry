@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://hujiaweibujidao.github.io/poetry-android/private/</loc>
+    <lastmod>2018-08-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://hujiaweibujidao.github.io/poetry-android/opensource/</loc>
+    <lastmod>2018-02-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://hujiaweibujidao.github.io/poetry-android/privacy/</loc>
+    <lastmod>2018-02-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://hujiaweibujidao.github.io/poetry-android/vip/</loc>
+    <lastmod>2018-02-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://hujiaweibujidao.github.io/poetry-android/pay/</loc>
+    <lastmod>2018-02-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://hujiaweibujidao.github.io/poetry-android/login/</loc>
+    <lastmod>2018-02-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://hujiaweibujidao.github.io/poetry-android/contract/</loc>
+    <lastmod>2018-02-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://hujiaweibujidao.github.io/poetry-android/guide/</loc>
+    <lastmod>2018-01-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://hujiaweibujidao.github.io/poetry-android/future/</loc>
+    <lastmod>2018-01-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://hujiaweibujidao.github.io/poetry-android/story/</loc>
+    <lastmod>2018-01-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://hujiaweibujidao.github.io/poetry-android/donations/</loc>
+    <lastmod>2018-01-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://hujiaweibujidao.github.io/poetry-android/blog/2018/01/12/%E8%AF%97%E9%B2%B8%E7%BB%88%E4%BA%8E%E4%B8%8A%E7%BA%BF%E5%95%A6/</loc>
+    <lastmod>2018-01-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://hujiaweibujidao.github.io/poetry-android/post/</loc>
+    <lastmod>2018-01-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://hujiaweibujidao.github.io/poetry-android/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://hujiaweibujidao.github.io/poetry-android/</loc>
+    <lastmod>2018-08-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

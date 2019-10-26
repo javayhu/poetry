@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>诗鲸</title>
+    <link>http://hujiaweibujidao.github.io/poetry-android/</link>
+    <description>Recent content on 诗鲸</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>All rights reserved &amp;copy; 2018</copyright>
+    <lastBuildDate>Fri, 24 Aug 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://hujiaweibujidao.github.io/poetry-android/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>测试页面</title>
+      <link>http://hujiaweibujidao.github.io/poetry-android/private/</link>
+      <pubDate>Fri, 24 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://hujiaweibujidao.github.io/poetry-android/private/</guid>
+      <description>&lt;p&gt;测试页面 &lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>开源组件</title>
+      <link>http://hujiaweibujidao.github.io/poetry-android/opensource/</link>
+      <pubDate>Sat, 24 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://hujiaweibujidao.github.io/poetry-android/opensource/</guid>
+      <description>&lt;p&gt;开源组件 &lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>隐私政策</title>
+      <link>http://hujiaweibujidao.github.io/poetry-android/privacy/</link>
+      <pubDate>Sat, 24 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://hujiaweibujidao.github.io/poetry-android/privacy/</guid>
+      <description>&lt;p&gt;隐私政策 &lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>会员特权</title>
+      <link>http://hujiaweibujidao.github.io/poetry-android/vip/</link>
+      <pubDate>Thu, 22 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://hujiaweibujidao.github.io/poetry-android/vip/</guid>
+      <description>&lt;p&gt;会员特权 &lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>支付帮助</title>
+      <link>http://hujiaweibujidao.github.io/poetry-android/pay/</link>
+      <pubDate>Wed, 21 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://hujiaweibujidao.github.io/poetry-android/pay/</guid>
+      <description>&lt;p&gt;支付帮助 &lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>注册帮助</title>
+      <link>http://hujiaweibujidao.github.io/poetry-android/login/</link>
+      <pubDate>Wed, 21 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://hujiaweibujidao.github.io/poetry-android/login/</guid>
+      <description>&lt;p&gt;注册帮助 &lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>服务协议</title>
+      <link>http://hujiaweibujidao.github.io/poetry-android/contract/</link>
+      <pubDate>Tue, 20 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://hujiaweibujidao.github.io/poetry-android/contract/</guid>
+      <description>&lt;p&gt;服务协议 &lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>使用指南</title>
+      <link>http://hujiaweibujidao.github.io/poetry-android/guide/</link>
+      <pubDate>Wed, 24 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://hujiaweibujidao.github.io/poetry-android/guide/</guid>
+      <description>&lt;p&gt;使用指南 &lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>开发计划</title>
+      <link>http://hujiaweibujidao.github.io/poetry-android/future/</link>
+      <pubDate>Sat, 20 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://hujiaweibujidao.github.io/poetry-android/future/</guid>
+      <description>&lt;p&gt;开发计划 &lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>诞生故事</title>
+      <link>http://hujiaweibujidao.github.io/poetry-android/story/</link>
+      <pubDate>Sat, 20 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://hujiaweibujidao.github.io/poetry-android/story/</guid>
+      <description>&lt;p&gt;诞生故事 &lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>赞助诗鲸</title>
+      <link>http://hujiaweibujidao.github.io/poetry-android/donations/</link>
+      <pubDate>Sat, 20 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://hujiaweibujidao.github.io/poetry-android/donations/</guid>
+      <description>&lt;p&gt;赞助诗鲸 &lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>诗鲸终于上线啦</title>
+      <link>http://hujiaweibujidao.github.io/poetry-android/blog/2018/01/12/%E8%AF%97%E9%B2%B8%E7%BB%88%E4%BA%8E%E4%B8%8A%E7%BA%BF%E5%95%A6/</link>
+      <pubDate>Fri, 12 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://hujiaweibujidao.github.io/poetry-android/blog/2018/01/12/%E8%AF%97%E9%B2%B8%E7%BB%88%E4%BA%8E%E4%B8%8A%E7%BA%BF%E5%95%A6/</guid>
+      <description>&lt;p&gt;诗鲸终于上线啦！撒花~~~~ &lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

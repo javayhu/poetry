@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on 诗鲸</title>
+    <link>http://hujiaweibujidao.github.io/poetry-android/post/</link>
+    <description>Recent content in Posts on 诗鲸</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>All rights reserved &amp;copy; 2018</copyright>
+    <lastBuildDate>Fri, 12 Jan 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://hujiaweibujidao.github.io/poetry-android/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>诗鲸终于上线啦</title>
+      <link>http://hujiaweibujidao.github.io/poetry-android/blog/2018/01/12/%E8%AF%97%E9%B2%B8%E7%BB%88%E4%BA%8E%E4%B8%8A%E7%BA%BF%E5%95%A6/</link>
+      <pubDate>Fri, 12 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://hujiaweibujidao.github.io/poetry-android/blog/2018/01/12/%E8%AF%97%E9%B2%B8%E7%BB%88%E4%BA%8E%E4%B8%8A%E7%BA%BF%E5%95%A6/</guid>
+      <description>&lt;p&gt;诗鲸终于上线啦！撒花~~~~ &lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
