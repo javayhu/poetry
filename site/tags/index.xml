@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on 诗鲸</title>
-    <link>http://hujiaweibujidao.github.io/poetry-android/tags/</link>
+    <link>https://hujiaweibujidao.github.io/poetry/site/tags/</link>
     <description>Recent content in Tags on 诗鲸</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>All rights reserved &amp;copy; 2018</copyright>
     
-	<atom:link href="http://hujiaweibujidao.github.io/poetry-android/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://hujiaweibujidao.github.io/poetry/site/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
